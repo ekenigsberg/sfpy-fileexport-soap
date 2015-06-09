@@ -23,7 +23,7 @@ def login(sf):
     print 'SET USERNAME AND PASSWORD'
     # Get login credentials
     if __debug_mode__:
-        st_username = 'jake@spy.com'
+        st_username = 'jake@spfy.com'
         st_password = 'WaKUdbjJf6Ut'
         st_token = '3jpjJo3quesH7nUOfLYY4DQR'
     else:
